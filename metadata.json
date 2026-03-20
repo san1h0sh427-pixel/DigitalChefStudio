@@ -1,0 +1,5 @@
+{
+  "name": "ProteinChef AI",
+  "description": "Smart high-protein recipe generator based on your mood and available ingredients.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ProteinChef AI",
+  "short_name": "ProteinChef",
+  "description": "Smart High-Protein Recipes Based on Your Mood & Ingredients",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/proteinchef/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/proteinchef/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
